@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 14f96297533233340aef42ea4abf0d02
+timeCreated: 1478985173
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mc sprite_0
+    21300002: mc sprite_1
+    21300004: mc sprite_2
+    21300006: mc sprite_3
+    21300008: mc sprite_4
+    21300010: mc sprite_5
+    21300012: mc sprite_6
+    21300014: mc sprite_7
+    21300016: mc sprite_8
+    21300018: mc sprite_9
+    21300020: mc sprite_10
+    21300022: mc sprite_11
+    21300024: mc sprite_12
+    21300026: mc sprite_13
+    21300028: mc sprite_14
+    21300030: mc sprite_15
+    21300032: mc sprite_16
+    21300034: mc sprite_17
+    21300036: mc sprite_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mc sprite_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 473
+        width: 61
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 473
+        width: 61
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 476
+        width: 62
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_3
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 476
+        width: 61
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_4
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 475
+        width: 61
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_5
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 475
+        width: 62
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 247
+        width: 55
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 245
+        width: 61
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 257
+        width: 91
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 257
+        width: 90
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_10
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 274
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_11
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 259
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_12
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 250
+        width: 86
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 86
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 32
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 32
+        width: 98
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_16
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 31
+        width: 91
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_17
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 19
+        width: 61
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mc sprite_18
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 21
+        width: 55
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

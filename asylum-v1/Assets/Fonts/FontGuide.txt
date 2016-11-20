@@ -1,0 +1,4 @@
+Font Guide -- 
+	Savu Condensed: All caps stuff (Sanity, Objective, Parts Found)
+	Roboto light:  Objective descriptions
+	Roboto light Italic: Dialogue
