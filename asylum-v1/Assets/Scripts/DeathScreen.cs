@@ -25,7 +25,7 @@ public class DeathScreen : MonoBehaviour
 //			show = true;
 //			player.canMove = false;
 //			deathScreen.SetActive (show);
-			SceneManager.LoadScene (startLevel); 
+			//SceneManager.LoadScene (startLevel); 
 		}
 	}
 }

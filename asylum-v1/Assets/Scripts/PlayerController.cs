@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 public class PlayerController : MonoBehaviour
 {
 
@@ -122,7 +123,7 @@ public class PlayerController : MonoBehaviour
 	// Update is called once per frame
 	void Update () 
 	{
-		print ("asds");
+		
 		//		Debug.Log (currentAnimationState);
 
 		if (!canMove) 
@@ -133,6 +134,10 @@ public class PlayerController : MonoBehaviour
 		if (Sanity <= 0) 
 		{
 			changeState (death);
+
+			//StartCoroutine ("Die");
+			//SceneManager.LoadScene ("Dead");
+
 			//			playerDead = true;
 
 		}
@@ -143,7 +148,7 @@ public class PlayerController : MonoBehaviour
 
 			if (deathTimer <= 0) 
 			{
-				playerDead = true;
+				//playerDead = true;
 			}
 		}
 		playerMoving = false;
@@ -308,6 +313,13 @@ public class PlayerController : MonoBehaviour
 		}
 	}
 
+
+	public void Die() {
+		playerDead = true;
+		SceneManager.LoadScene ("Dead");
+
+
+	}
 	//--------------------------------------
 	// Change the players animation state
 	//--------------------------------------
